@@ -62,3 +62,6 @@ This project was created as part of the CS50 course.
 Special thanks to the CS50 team and the open-source community.
 
 
+Project video:
+https://youtu.be/QhM4Kgn-2vA
+
