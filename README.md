@@ -1,5 +1,6 @@
-# CS50 Final Project: Arduino LED Controller
 
+# PROJECT NAME: Arduino LED Controller
+DESCRIPTION OF PROJECT:
 ## Project Overview
 This project is an Arduino-based LED controller that allows users to control 5 LEDs through a Python script. The project logs the state of each LED (ON/OFF) in an SQLite database. The system demonstrates the integration of hardware (Arduino) with software (Python and SQL) and provides a user-friendly interface for controlling the LEDs.
 
@@ -62,6 +63,6 @@ This project was created as part of the CS50 course.
 Special thanks to the CS50 team and the open-source community.
 
 
-Project video:
+PROJECT VIDEO:
 https://youtu.be/QhM4Kgn-2vA
 
